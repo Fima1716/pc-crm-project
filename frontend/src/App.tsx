@@ -16,17 +16,17 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Hello World</h1>
+      <h1>Компьютерная мастерская Бульбазаврик </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          Кликни дружище! {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          Подпишись <code>Чтобы не пропустить</code> наши великолепные сборки!
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Лучшая команда в мире!
       </p>
     </>
   )
